@@ -1,0 +1,30 @@
+h1 {
+    color: blueviolet;
+    margin-top: 24%;
+    text-align: center;
+}
+h4{
+    color: white;
+    margin-left: 35%;
+    margin-top: -2%;
+}
+body{
+    font-family:sans-serif;
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    justify-content: space-between;
+    display: flex;
+  }
+  
+li {
+    margin: auto;
+}
+  
+li a {
+    display: inline-block;
+}
